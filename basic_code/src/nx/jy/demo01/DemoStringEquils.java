@@ -7,5 +7,6 @@ public class DemoStringEquils {
     //创建测试文件 git
     public static void main(String[] args) {
         System.out.println("git git !!!");
+        System.out.println("git git !!!");
     }
 }
