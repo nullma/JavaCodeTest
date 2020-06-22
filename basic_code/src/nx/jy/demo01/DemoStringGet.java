@@ -24,7 +24,7 @@ public class DemoStringGet {
 
         // 查找字符串中 字符第一次出现的位置的索引
         String original = "helloWorld";
-        int wor = original.indexOf("llo");
+        int wor = original.indexOf("llo",0);
         System.out.println(wor);
         System.out.println("====================END");
 
